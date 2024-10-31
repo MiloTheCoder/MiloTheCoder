@@ -1,0 +1,6 @@
+- 👋 Hi, my name is Milo
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning Python
+- 📫 Email: MadsMilo159@gmail.com
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I am 13 years old
